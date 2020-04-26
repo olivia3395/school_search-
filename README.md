@@ -2,9 +2,9 @@
 
 Our shiny app is based on Universities in the United States.
 
-![screenshot](doc/home1.png)
-![screenshot](doc/home2.png)
-![screenshot](doc/home3.png)
+![screenshot](home1.png)
+![screenshot](home2.png)
+![screenshot](home3.png)
 
 This application aims to help users to discover and compare schools in a more efficient manner,
 and is created by Olivia Wang in April 2020, 
